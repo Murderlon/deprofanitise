@@ -1,0 +1,13 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Merlijn Vos",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.3.1",
+    "copy-paste": "^1.3.0",
+    "cuss": "^1.8.0",
+    "repeat-string": "^1.6.1"
+  }
+}
